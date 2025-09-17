@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2025-09-17T03:27:39.030Z",
-    "end": "2025-09-17T03:27:39.388Z",
-    "duration": 358
+    "start": "2025-09-17T03:38:17.956Z",
+    "end": "2025-09-17T03:38:18.310Z",
+    "duration": 354
   },
   "tests": [
     {
@@ -34,7 +34,7 @@
     {
       "title": "ends with an exclamation point!",
       "fullTitle": "index.js welcomeMessage ends with an exclamation point!",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -62,7 +62,7 @@
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -108,7 +108,7 @@
     {
       "title": "ends with an exclamation point!",
       "fullTitle": "index.js welcomeMessage ends with an exclamation point!",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -136,7 +136,7 @@
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
